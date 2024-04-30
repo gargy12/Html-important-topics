@@ -1,0 +1,25 @@
+The most important topic of html for beginners are -:
+HTML layout
+HTML lists
+What is HTML?
+Difference between HTML and XHTML
+HTML editors
+HTML tables
+Define image map
+HTML attributes
+HTML comments
+HTML elements
+HTML heading
+HTML links
+Semantics
+HTML tags
+HTML forms
+HTML images
+HTML5
+What is white-space in HTML?
+HTML alt attribute
+HTML audio
+HTML doctypes
+HTML graphics
+Inline
+What are attributes?
